@@ -1,3 +1,12 @@
+
+![Screenshot 2022-02-22 155207](https://user-images.githubusercontent.com/88138560/155110513-86423de8-92b1-4ddc-a460-ff52289814ac.png)
+
+![2](https://user-images.githubusercontent.com/88138560/155110551-ae7c0306-a3a0-420d-a666-ca2aea8cbf04.png)
+
+![3](https://user-images.githubusercontent.com/88138560/155110562-4f97d59a-84f9-44d8-bae8-9ffabfbceca9.png)
+
+
+
 # AngularEncryptLocalStorageData
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
